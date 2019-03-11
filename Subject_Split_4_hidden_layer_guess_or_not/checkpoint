@@ -1,0 +1,2 @@
+model_checkpoint_path: "lr0.00001_and_epoch_test"
+all_model_checkpoint_paths: "lr0.00001_and_epoch_test"
